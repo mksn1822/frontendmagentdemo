@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npm start",
-    "dev": "npm run dev"
+    "start": "npx serve .",
+    "dev": "npx serve ."
   },
   "keywords": [],
   "author": "",
